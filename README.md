@@ -69,15 +69,15 @@ There were three Neural Network Architecutre that I modeled and trained over the
 
 DenseModel: 
 <!-- ![image](https://user-images.githubusercontent.com/19268537/145747090-9bcbc166-9ba9-48c3-b14a-69ea09637dc6.png) -->
-<img src="https://user-images.githubusercontent.com/19268537/145747090-9bcbc166-9ba9-48c3-b14a-69ea09637dc6.png" width="100" height="800" />
+<img src="https://user-images.githubusercontent.com/19268537/145747090-9bcbc166-9ba9-48c3-b14a-69ea09637dc6.png" width="300" height="800" />
 Dense Model with Dropouts : 
 <!-- ![image](https://user-images.githubusercontent.com/19268537/145747189-e09ae4b6-76d0-4c3f-a554-9803fc692210.png) -->
-<img src="https://user-images.githubusercontent.com/19268537/145747189-e09ae4b6-76d0-4c3f-a554-9803fc692210.png" width="10" height="200" />
+<img src="https://user-images.githubusercontent.com/19268537/145747189-e09ae4b6-76d0-4c3f-a554-9803fc692210.png" width="300" height="800" />
 
 
 Vgg16 Architecture : 
 <!-- ![vgg16](https://user-images.githubusercontent.com/19268537/145748712-977f72c7-273a-4c43-aa48-d21f22f541ef.jpeg) -->
-<img src="https://user-images.githubusercontent.com/19268537/145747189-e09ae4b6-76d0-4c3f-a554-9803fc692210.png" width="100" height="700" />
+<img src="https://user-images.githubusercontent.com/19268537/145747189-e09ae4b6-76d0-4c3f-a554-9803fc692210.png" width="300" height="900" />
 
 Accuracy and Loss Graphs on Different Epochs: 
 
