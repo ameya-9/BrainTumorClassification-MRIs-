@@ -76,7 +76,7 @@ Dense Model with Dropouts :
 
 Vgg16 Architecture : 
 <!-- ![vgg16](https://user-images.githubusercontent.com/19268537/145748712-977f72c7-273a-4c43-aa48-d21f22f541ef.jpeg) -->
-<img src="![vgg16](https://user-images.githubusercontent.com/19268537/145748958-ac916022-3fae-43f6-86cc-fe7c4267650d.jpeg)" width="300" height="900" />
+<img src=![vgg16](https://user-images.githubusercontent.com/19268537/145847495-aed6cd5e-23f9-4972-91cf-0e5e2150a110.jpeg) width="300" height="900" />
 
 <!-- Accuracy and Loss Graphs on Different Epochs: 
 ![15Epochs](https://user-images.githubusercontent.com/19268537/145749000-1b00d077-d122-4460-ab37-88b953a25c19.png)
