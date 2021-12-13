@@ -1,5 +1,6 @@
 <!-- Add banner here -->
 ![Banner](https://unsplash.com/photos/3KGF9R_0oHs)
+https://unsplash.com/photos/bY5OUwKx3XU
 
 # Brain Tumor Classification through different Architectures.
 <!-- Technology stack badges-->
@@ -62,11 +63,20 @@ There were three Neural Network Architecutre that I modeled and trained over the
 1. Dense_Model ( Without drop outs)
 2. Dense_Model_with_dropouts ( with drop outs)
 3. Vgg16 ( Model is provided in Tensorflow; off the shelf implementation)  
+ 
+ 
 
 
-DenseModel
+DenseModel: 
+![image](https://user-images.githubusercontent.com/19268537/145747090-9bcbc166-9ba9-48c3-b14a-69ea09637dc6.png)
 
+Dense Model with Dropouts : 
+![image](https://user-images.githubusercontent.com/19268537/145747189-e09ae4b6-76d0-4c3f-a554-9803fc692210.png)
 
+Vgg16 Architecture : 
+![image](https://user-images.githubusercontent.com/19268537/145748274-fb11b516-8ebf-4b32-b75b-48571de7fe7f.png)
+
+Accuracy and Loss Graphs on Different Epochs: 
 
 
 # References
