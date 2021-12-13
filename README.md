@@ -79,7 +79,7 @@ Vgg16 Architecture :
 <!-- ![vgg16](https://user-images.githubusercontent.com/19268537/145748712-977f72c7-273a-4c43-aa48-d21f22f541ef.jpeg) -->
 <img src="![vgg16](https://user-images.githubusercontent.com/19268537/145748958-ac916022-3fae-43f6-86cc-fe7c4267650d.jpeg)" width="300" height="900" />
 
-Accuracy and Loss Graphs on Different Epochs: 
+<!-- Accuracy and Loss Graphs on Different Epochs: 
 ![15Epochs](https://user-images.githubusercontent.com/19268537/145749000-1b00d077-d122-4460-ab37-88b953a25c19.png)
 ![50Epochs](https://user-images.githubusercontent.com/19268537/145749010-c6bce58b-0c2d-4458-9891-807f4b9cf64b.png)
 ![dense_model_with_dropoutAccuracy 50](https://user-images.githubusercontent.com/19268537/145749015-6a762345-571e-4910-94d3-9c374fae1712.png)
@@ -87,7 +87,7 @@ Accuracy and Loss Graphs on Different Epochs:
 ![dense_model50](https://user-images.githubusercontent.com/19268537/145749031-5760c33f-1b41-4e23-9b34-382df6db7056.png)
 ![model_vgg16loss50](https://user-images.githubusercontent.com/19268537/145749040-be4c9848-5cb2-44ba-9194-976a18b3a22f.png)
 ![modelvgg16Accuracy50](https://user-images.githubusercontent.com/19268537/145749042-005b2966-0057-4295-8b00-e40ff79ccdf6.png)
-
+ -->
 
 
 # References
