@@ -15,7 +15,7 @@ https://unsplash.com/photos/bY5OUwKx3XU
 
 Objective: This project was for learning purpose, both to understand the difference in various types of tumors. As well as how Deep Learning Architectures are built, various underlying concepts as well as concepts invovled. 
 
-Data : The original data was taken from ![Kaggle](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)  - Credits to ![Navoneel Chakrabarty] https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+Data : The original data was taken from ![Kaggle](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)  - Credits to ![Navoneel Chakrabarty](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
 More details of dataset is in ![DataSheet](https://github.com/ameya-9/BrainTumorClassification-MRIs-/blob/main/datasets/DataSheet)
 
 
