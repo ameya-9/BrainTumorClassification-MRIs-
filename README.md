@@ -1,8 +1,6 @@
 <!-- Add banner here -->
 ![robina-weermeijer-3KGF9R_0oHs-unsplash](https://user-images.githubusercontent.com/19268537/145749890-1e9bc92d-5920-4f59-89a9-74dbe7d03bc7.jpg)
 
-https://unsplash.com/photos/bY5OUwKx3XU
-
 # Brain Tumor Classification through different Architectures.
 <!-- Technology stack badges-->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
