@@ -1,1 +1,27 @@
-Original Credits: Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar, Sameer Dedge
+Authors of the Document : Ameya Naik 
+
+
+Acknowledgements for Dataset.
+Navoneel Chakrabarty
+Swati Kanchan
+
+
+Original Dataset : https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+
+Zipped Version in this repo  Names as Archive.zip 
+
+
+Details of the Dataset 
+Total Number of Datasets : 3264
+Total Number of Test Datasets: 394
+Total Number of Train Datasts: 2870
+
+Type of Brain Tumors MRI Scans in the Dataset :  
+1. Meningioma 
+2. Pituitary Adenoma
+3. Glioma
+4. No Tumors
+
+Intention of the Datasets : 
+To provide opportunities to automates tumor detection and classification, as it ease up the additional burden on neurosergisn and can act as second opinion in the near future.
+
